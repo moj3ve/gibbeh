@@ -1,0 +1,9 @@
+Package: me.memor1es.gibbeh
+Name: Gibbeh!!
+Depends: mobilesubstrate, libactivator
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Gibbeh on your home screen!!
+Maintainer: Memor1es <memories@tw3lve.space>
+Author: Memor1es <memories@tw3lve.space>
+Section: Tweaks
