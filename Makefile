@@ -1,3 +1,5 @@
+ARCHS = arm64 arm64e
+
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = Gibbeh
@@ -8,4 +10,4 @@ Gibbeh_LIBRARIES = activator
 include $(THEOS_MAKE_PATH)/tweak.mk
 
 after-install::
-	echo Gibbeh!!!!!!!!!
+	install.exec "killall -9 SpringBoard"

@@ -1,7 +1,6 @@
 Package: me.shymemoriees.gibbeh
 Name: Gibbeh!!
 Depends: mobilesubstrate, libactivator
-Version: 1.0
 Architecture: iphoneos-arm
 Description: Gibbeh on your home screen!!
 Maintainer: ShyMemoriees <memories@tw3lve.space>
@@ -10,3 +9,5 @@ Section: Tweaks
 SileoDepiction: https://repo.memor1es.me/depicitions/gbh/index.html
 Depiction: https://repo.memor1es.me/depicitions/gbh/index.html
 Icon: https://repo.memor1es.me/depicitions/gbh/assets/icon.png
+Version: 1.0-2+debug
+Installed-Size: 616
